@@ -1,0 +1,14 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pages-cli dev",
+    "build": "pages-cli build",
+    "clean": "pages-cli clean"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
